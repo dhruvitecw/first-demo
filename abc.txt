@@ -11,3 +11,5 @@ this is just start...
 4. Adding content on the forth line..
 
 5. Checking pull rebase -Now making change at local repository
+
+6. Testing the stash command
