@@ -13,3 +13,5 @@ this is just start...
 5. Checking pull rebase -Now making change at local repository
 
 6. Testing the stash command
+
+7. This is a beautiful morning of 27th March..
